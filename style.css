@@ -850,6 +850,24 @@
 .border-none{
 	border: 0;
 }
+.border-dotted{
+	border-style: dotted;
+}
+.border-dashed{
+	border-style: dashed;
+}
+.border-solid{
+	border-style: solid;
+}
+.border-double{
+	border-style: double;
+}
+.border-groove{
+	border-style: groove;
+}
+.border-ridge{
+	border-style: ridge;
+}
 .border-width-1px{
 	border-width: 1px;
 }
@@ -876,6 +894,56 @@
 }
 .border-radius-20px{
 	border-radius: 20px;
+}
+/* color */
+.color-red{
+	color: red;
+}
+.color-green{
+	color: green;
+}
+.color-blue{
+	color: blue;
+}
+.color-orange{
+	color: orange;
+}
+.color-yellow{
+	color: yellow;
+}
+.color-cyan{
+	color: cyan;
+}
+.color-black{
+	color: black;
+}
+.color-gray{
+	color: gray;
+}
+/* background */
+.background-red{
+	background-color: red;
+}
+.background-green{
+	background-color: green;
+}
+.background-blue{
+	background-color: blue;
+}
+.background-orange{
+	background-color: orange;
+}
+.background-yellow{
+	background-color: yellow;
+}
+.background-cyan{
+	background-color: cyan;
+}
+.background-black{
+	background-color: black;
+}
+.background-gray{
+	background-color: gray;
 }
 /* button */
 .button-success {
