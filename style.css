@@ -732,6 +732,15 @@
 .float-right{
 	float: right;
 }
+.float-none{
+	float: none;
+}
+.float-clear-left{
+	clear: left;
+}
+.float-clear-right{
+	clear: right;
+}
 /* display */
 .z-index-100{
     z-index: 100;
