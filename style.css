@@ -1043,6 +1043,19 @@
 .outline-width-2px{
 	outline-width: 2px;
 }
+/* css overflow */
+.overflow-visible{
+	overflow: visible;
+}
+.overflow-hidden{
+	overflow: hidden;
+}
+.overflow-scroll{
+	overflow: scroll;
+}
+.overflow-auto{
+	overflow: auto;
+}
 /* button */
 .button-success {
     color: #fff;
