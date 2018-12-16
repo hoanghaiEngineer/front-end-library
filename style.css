@@ -1043,6 +1043,19 @@
 .outline-width-2px{
 	outline-width: 2px;
 }
+/* css overflow */
+.overflow-visible{
+	overflow: visible;
+}
+.overflow-hidden{
+	overflow: hidden;
+}
+.overflow-scroll{
+	overflow: scroll;
+}
+.overflow-auto{
+	overflow: auto;
+}
 /* button */
 .button-success {
     color: #fff;
@@ -1063,4 +1076,17 @@
     color: #fff;
     background-color: #d9534f;
     border-color: #d43f3a;
+}
+/* block */
+.block-center{
+	margin: auto;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
+}
+.block-right{
+	float: right;
+	width: 300px;
+	border: 3px solid #73AD21;
+	padding: 10px;
 }
