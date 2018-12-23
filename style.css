@@ -809,6 +809,12 @@
 .letter-spacing-5px{
 	letter-spacing: 5px;
 }
+.opacity{
+	opacity:0.5;
+}
+.opacity-none{
+	opacity: 1;
+}
 /* position */
 .position-absolute {
 	position: absolute;
