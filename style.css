@@ -1105,8 +1105,6 @@
 .tooltip .tooltiptext{
 	visibility: hidden;
 	width: 120px;
-	background-color: black;
-	color: #fff;
 	text-align: center;
 	border-radius: 6px;
 	padding: 5px 0;
@@ -1114,5 +1112,26 @@
 	z-index: 1;
 }
 .tooltip:hover .tooltiptext{
+	visibility: visible;
+}
+/* right tooltip */
+.tooltip_right{
+	position: relative;
+	display: inline-block;
+	border-bottom: 1px dotted black;
+}
+.tooltip_right .tooltiptext_right{
+	visibility: hidden;
+	width: 120px;
+	text-align: center;
+	border-radius: 6px;
+	padding: 5px 0;
+	/* position the tooltip */
+	position: absolute;
+	z-index: 1;
+	top: -5px;
+	left: 105%;
+}
+.tooltip_right:hover .tooltiptext_right{
 	visibility: visible;
 }
