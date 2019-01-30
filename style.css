@@ -1083,6 +1083,10 @@
     background-color: #d9534f;
     border-color: #d43f3a;
 }
+/* word-wrap */
+.break-word{
+	word-wrap: break-word;
+}
 /* block */
 .block-center{
 	margin: auto;
