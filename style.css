@@ -1250,3 +1250,22 @@
 .tooltip_bottom:hover .tooltiptext_bottom {
   visibility: visible;
 }
+/* Thumbnail Images */
+.images-thumbnail{
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+}
+/* Responsive Images */
+.images-responsive{
+	max-width: 100%;
+	height: auto;
+}
+/* image-center */
+.image-center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
