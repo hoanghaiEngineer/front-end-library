@@ -1269,14 +1269,6 @@
 	margin-right: auto;
 	width: 50%;
 }
-/* Image Hover Overlay */
-/* fade in text */
-/* <div class="container"> */
-  /* <img src="img_avatar.png" alt="Avatar" class="image"> */
-  /* <div class="overlay"> */
-    /* <div class="text">Hello World</div> */
-  /* </div> */
-/* </div> */
 .container{
 	position: relative;
 	width: 50%;
@@ -1309,4 +1301,17 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
+}
+/* object-fit */
+.object-fit-fill{
+	object-fit: fill;
+}
+.object-fit-contain{
+	object-fit: contain;
+}
+.object-fit-cover{
+	object-fit: cover;
+}
+.object-fit-scaledown{
+	object-fit: scale-down;
 }
