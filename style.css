@@ -1339,3 +1339,63 @@
   /* <a href="#">6</a> */
   /* <a href="#">&raquo;</a> */
 /* </div> */
+/* css multiple columns */
+.columns-multiple-2{
+	column-count: 2;
+}
+.columns-multiple-3{
+	column-count: 3;
+}
+/* css multiple columns > Columns gap */
+.column-gap-10px{
+	column-gap: 10px;
+}
+.column-gap-20px{
+	column-gap: 20px;
+}
+.column-gap-30px{
+	column-gap: 30px;
+}
+.column-gap-40px{
+	column-gap: 40px;
+}
+/* css multiple columns > Columns rule */
+.columns-rule-solid {
+  column-rule-style: solid;
+}
+.columns-rule-double {
+  column-rule-style: double;
+}
+.columns-rule-solid {
+  column-rule-style: solid;
+}
+.columns-rule-width-1px {
+  column-rule-width: 1px;
+}
+.columns-rule-width-2px {
+  column-rule-width: 2px;
+}
+.columns-width-50px {
+  column-width: 50px;
+}
+.columns-width-100px {
+  column-width: 100px;
+}
+.columns-width-150px {
+  column-width: 150px;
+}
+.columns-width-200px {
+  column-width: 200px;
+}
+.columns-width-250px {
+  column-width: 250px;
+}
+.columns-width-300px {
+  column-width: 300px;
+}
+.columns-width-350px {
+  column-width: 350px;
+}
+.columns-width-400px {
+  column-width: 400px;
+}
