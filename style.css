@@ -1399,3 +1399,20 @@
 .columns-width-400px {
   column-width: 400px;
 }
+/* css resize */
+.resize-horizontal{
+	resize: horizontal;
+	overflow: auto;
+}
+.resize-vertical{
+	resize: vertical;
+	overflow: auto;
+}
+.resize-horizontal-vertical{
+	resize: both;
+	overflow: auto;
+}
+.resize-none{
+	resize: none;
+}
+/* CSS Outline Offset */
