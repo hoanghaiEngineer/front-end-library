@@ -1416,3 +1416,21 @@
 	resize: none;
 }
 /* CSS Outline Offset */
+.outline-red{
+	outline: 4px solid red;
+}
+.outline-green{
+	outline: 4px solid green;
+}
+.outline-blue{
+	outline: 4px solid blue;
+}
+.outline-offset-5px{
+	outline-offset: 5px;
+}
+.outline-offset-10px{
+	outline-offset: 10px;
+}
+.outline-offset-15px{
+	outline-offset: 15px;
+}
