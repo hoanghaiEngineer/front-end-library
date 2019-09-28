@@ -1434,3 +1434,11 @@
 .outline-offset-15px{
 	outline-offset: 15px;
 }
+/* css counter */
+.counter-reset{
+	counter-reset: section;
+}
+.counter-increment::before{
+	counter-increment: section;
+	content: counter(section);
+}
