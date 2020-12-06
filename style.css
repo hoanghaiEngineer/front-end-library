@@ -1062,6 +1062,18 @@
 .overflow-auto{
 	overflow: auto;
 }
+/* css overflow text */
+.text-overflow-ellipsis{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+/* css overflow clipped */
+.text-overflow-clipped{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: clipped;
+}
 /* button */
 .button-success {
     color: #fff;
