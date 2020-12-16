@@ -1484,6 +1484,7 @@
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	font-size: xx-large;
 }
 
 .hicon-asterisk:before {
@@ -1500,4 +1501,16 @@
 
 .hicon-eur:before, .hicon-euro:before {
     content: "\20ac";
+}
+
+.hicon-cloud:before {
+	content: "\2601";
+}
+
+.hicon-envelope:before {
+    content: "\2709";
+}
+
+.hicon-pencil:before {
+    content: "\270f";
 }
