@@ -722,6 +722,16 @@
     margin-right: 50%;
 }
 /* fonts */
+@font-face {
+	font-family: 'Glyphicons Halflings';
+	src: url(./fonts/glyphicons-halflings-regular.woff2);
+}
+
+@font-face {
+	font-family: 'fontawesome';
+	src: url(./fonts/fontawesome.woff);
+}
+
 .font-size-11px{
     font-size: 11px;
 }
@@ -1473,6 +1483,7 @@
 .table-responsive{
 	overflow-x: auto;
 }
+
 /*icon asterisk*/
 .hicon {
 	position: relative;
@@ -1513,4 +1524,28 @@
 
 .hicon-pencil:before {
     content: "\270f";
+}
+
+.hicon-glass:before {
+    content: "\e001";
+}
+
+.hicon-music:before {
+    content: "\e002";
+}
+
+.hicon-search:before {
+    content: "\e003";
+}
+
+.hicon-heart:before {
+    content: "\e005";
+}
+
+.hicon-star:before {
+    content: "\e006";
+}
+
+.hicon-star-empty:before {
+    content: "\e007";
 }
