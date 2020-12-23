@@ -1549,3 +1549,63 @@
 .hicon-star-empty:before {
     content: "\e007";
 }
+
+.hicon-user:before {
+    content: "\e008";
+}
+
+.hicon-film:before {
+    content: "\e009";
+}
+
+.hicon-th-large:before {
+    content: "\e010";
+}
+
+.hicon-th:before {
+    content: "\e011";
+}
+
+.hicon-th-list:before {
+    content: "\e012";
+}
+
+.hicon-ok:before {
+    content: "\e013";
+}
+
+.hicon-remove:before {
+    content: "\e014";
+}
+
+.hicon-zoom-in:before {
+    content: "\e015";
+}
+
+.hicon-zoom-out:before {
+    content: "\e016";
+}
+
+.hicon-off:before {
+    content: "\e017";
+}
+
+.hicon-signal:before {
+    content: "\e018";
+}
+
+.hicon-cog:before {
+    content: "\e019";
+}
+
+.hicon-trash:before {
+    content: "\e020";
+}
+
+.hicon-home:before {
+    content: "\e021";
+}
+
+.hicon-file:before {
+    content: "\e022";
+}
