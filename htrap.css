@@ -1482,6 +1482,20 @@
 /*Table Responsive*/
 .table-responsive{
 	overflow-x: auto;
+	display: block;
+}
+
+/*CSS Writing Mode*/
+.writing-mode-horizontal-tb{
+	writing-mode: horizontal-tb;
+}
+
+.writing-mode-vertical-rl{
+	writing-mode: vertical-rl;
+}
+
+.writing-mode-vertical-lr{
+	writing-mode: vertical-lr;
 }
 
 /*icon asterisk*/
@@ -1608,4 +1622,128 @@
 
 .hicon-file:before {
     content: "\e022";
+}
+
+.hicon-time:before {
+    content: "\e023";
+}
+
+.hicon-road:before {
+    content: "\e024";
+}
+
+.hicon-download-alt:before {
+    content: "\e025";
+}
+
+.hicon-download:before {
+    content: "\e026";
+}
+
+.hicon-upload:before {
+    content: "\e027";
+}
+
+.hicon-inbox:before {
+    content: "\e028";
+}
+
+.hicon-play-circle:before {
+    content: "\e029";
+}
+
+.hicon-repeat:before {
+    content: "\e030";
+}
+
+.hicon-refresh:before {
+    content: "\e031";
+}
+
+.hicon-list-alt:before {
+    content: "\e032";
+}
+
+.hicon-lock:before {
+    content: "\e033";
+}
+
+.hicon-flag:before {
+    content: "\e034";
+}
+
+.hicon-headphones:before {
+    content: "\e035";
+}
+
+.hicon-volume-off:before {
+    content: "\e036";
+}
+
+.hicon-volume-down:before {
+    content: "\e037";
+}
+
+.hicon-volume-up:before {
+    content: "\e038";
+}
+
+.hicon-qrcode:before {
+    content: "\e039";
+}
+
+.hicon-barcode:before {
+    content: "\e040";
+}
+
+.hicon-tag:before {
+    content: "\e041";
+}
+
+.hicon-tags:before {
+    content: "\e042";
+}
+
+.hicon-book:before {
+    content: "\e043";
+}
+
+.hicon-bookmark:before {
+    content: "\e044";
+}
+
+.hicon-print:before {
+    content: "\e045";
+}
+
+.hicon-camera:before {
+    content: "\e046";
+}
+
+.hicon-font:before {
+    content: "\e047";
+}
+
+.hicon-bold:before {
+    content: "\e048";
+}
+
+.hicon-italic:before {
+    content: "\e049";
+}
+
+.hicon-text-height:before {
+    content: "\e050";
+}
+
+.hicon-text-width:before {
+    content: "\e051";
+}
+
+.hicon-align-left:before {
+    content: "\e052";
+}
+
+.hicon-align-center:before {
+    content: "\e053";
 }
