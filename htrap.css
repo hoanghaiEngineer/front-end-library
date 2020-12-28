@@ -1663,3 +1663,87 @@
 .hicon-list-alt:before {
     content: "\e032";
 }
+
+.hicon-lock:before {
+    content: "\e033";
+}
+
+.hicon-flag:before {
+    content: "\e034";
+}
+
+.hicon-headphones:before {
+    content: "\e035";
+}
+
+.hicon-volume-off:before {
+    content: "\e036";
+}
+
+.hicon-volume-down:before {
+    content: "\e037";
+}
+
+.hicon-volume-up:before {
+    content: "\e038";
+}
+
+.hicon-qrcode:before {
+    content: "\e039";
+}
+
+.hicon-barcode:before {
+    content: "\e040";
+}
+
+.hicon-tag:before {
+    content: "\e041";
+}
+
+.hicon-tags:before {
+    content: "\e042";
+}
+
+.hicon-book:before {
+    content: "\e043";
+}
+
+.hicon-bookmark:before {
+    content: "\e044";
+}
+
+.hicon-print:before {
+    content: "\e045";
+}
+
+.hicon-camera:before {
+    content: "\e046";
+}
+
+.hicon-font:before {
+    content: "\e047";
+}
+
+.hicon-bold:before {
+    content: "\e048";
+}
+
+.hicon-italic:before {
+    content: "\e049";
+}
+
+.hicon-text-height:before {
+    content: "\e050";
+}
+
+.hicon-text-width:before {
+    content: "\e051";
+}
+
+.hicon-align-left:before {
+    content: "\e052";
+}
+
+.hicon-align-center:before {
+    content: "\e053";
+}
