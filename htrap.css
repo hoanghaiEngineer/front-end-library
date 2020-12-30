@@ -1747,3 +1747,43 @@
 .hicon-align-center:before {
     content: "\e053";
 }
+
+.hicon-align-right:before {
+    content: "\e054";
+}
+
+.hicon-align-justify:before {
+    content: "\e055";
+}
+
+.hicon-list:before {
+    content: "\e056";
+}
+
+.hicon-indent-left:before {
+    content: "\e057";
+}
+
+.hicon-indent-right:before {
+    content: "\e058";
+}
+
+.hicon-facetime-video:before {
+    content: "\e059";
+}
+
+.hicon-picture:before {
+    content: "\e060";
+}
+
+.hicon-map-marker:before {
+    content: "\e062";
+}
+
+.hicon-adjust:before {
+    content: "\e063";
+}
+
+.hicon-tint:before {
+    content: "\e064";
+}
