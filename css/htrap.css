@@ -724,12 +724,12 @@
 /* fonts */
 @font-face {
 	font-family: 'Glyphicons Halflings';
-	src: url(./fonts/glyphicons-halflings-regular.woff2);
+	src: url(../fonts/glyphicons-halflings-regular.woff2);
 }
 
 @font-face {
 	font-family: 'fontawesome';
-	src: url(./fonts/fontawesome.woff);
+	src: url(../fonts/fontawesome.woff);
 }
 
 .font-size-11px{
@@ -1786,4 +1786,88 @@
 
 .hicon-tint:before {
     content: "\e064";
+}
+
+.hicon-edit:before {
+	content: "\e065";
+}
+
+.hicon-share:before {
+    content: "\e066";
+}
+
+.hicon-check:before {
+    content: "\e067";
+}
+
+.hicon-move:before {
+    content: "\e068";
+}
+
+.hicon-step-backward:before {
+    content: "\e069";
+}
+
+.hicon-fast-backward:before {
+    content: "\e070";
+}
+
+.hicon-backward:before {
+    content: "\e071";
+}
+
+.hicon-play:before {
+    content: "\e072";
+}
+
+.hicon-pause:before {
+    content: "\e073";
+}
+
+.hicon-pause:before {
+    content: "\e073";
+}
+
+.hicon-stop:before {
+    content: "\e074";
+}
+
+.hicon-forward:before {
+    content: "\e075";
+}
+
+.hicon-fast-forward:before {
+    content: "\e076";
+}
+
+.hicon-step-forward:before {
+    content: "\e077";
+}
+
+.hicon-eject:before {
+    content: "\e078";
+}
+
+.hicon-chevron-left:before {
+    content: "\e079";
+}
+
+.hicon-chevron-right:before {
+    content: "\e080";
+}
+
+.hicon-plus-sign:before {
+    content: "\e081";
+}
+
+.hicon-minus-sign:before {
+    content: "\e082";
+}
+
+.hicon-remove-sign:before {
+    content: "\e083";
+}
+
+.hicon-ok-sign:before {
+    content: "\e084";
 }
